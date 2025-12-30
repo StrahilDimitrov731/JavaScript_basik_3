@@ -15,15 +15,15 @@ function biggestNumber(input) {
     console.log(bigNumber);
 }
 
-biggestNumber(
-    [
-        "45",
-        "-20",
-        "7",
-        "99",
-        "Stop"
-    ]
-)
+// biggestNumber(
+//     [
+//         "45",
+//         "-20",
+//         "7",
+//         "99",
+//         "Stop"
+//     ]
+// )
 
 biggestNumber(
     [
